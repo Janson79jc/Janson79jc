@@ -1,7 +1,7 @@
 # Chen Jiang
 
 **Independent Systems Architect & Researcher**  
-*M.S., Hawaii Pacific University*  
+*M.S. in Artificial Intelligence, Hawaii Pacific University* 
 
 Focusing on **Agent-Native Software Architectures**, **Autonomous Maintenance Drift**, and **Empirical Engineering Telemetry** for LLM agents operating under enterprise compliance standards.
 

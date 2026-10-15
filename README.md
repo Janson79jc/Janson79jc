@@ -27,7 +27,7 @@ Focusing on **Agent-Native Software Architectures**, **Autonomous Maintenance Dr
   Jiang, C. (2026). *Zenodo*. [https://doi.org/10.5281/zenodo.23134432](https://doi.org/10.5281/zenodo.23134432)
 
 - **Deceptive Technical Debt in Autonomous Maintenance: Cognitive Asymmetries and Heterogeneous Auditing Pipelines**  
-  Jiang, C. (2026). *Zenodo*. [Preprint](https://zenodo.org/)
+  Jiang, C. (2026). *Zenodo*. [https://doi.org/10.5281/zenodo.23142635](https://doi.org/10.5281/zenodo.23142635)
 
 ---
 

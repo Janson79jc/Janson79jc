@@ -29,6 +29,9 @@ Focusing on **Agent-Native Software Architectures**, **Autonomous Maintenance Dr
 - **Deceptive Technical Debt in Autonomous Maintenance: Cognitive Asymmetries and Heterogeneous Auditing Pipelines**  
   Jiang, C. (2026). *Zenodo*. [https://doi.org/10.5281/zenodo.23142635](https://doi.org/10.5281/zenodo.23142635)
 
+- **Continuous Architecture Specification Governance for LLM Coding Agents: An Industrial Instantiation of Spec-Driven Development and the Self-Obsolescence Law**  
+  Jiang, C. (2026). *Zenodo*. [https://doi.org/10.5281/zenodo.23440674](https://doi.org/10.5281/zenodo.23440674)
+  
 ---
 
 ### 🌐 Profiles & Contact

@@ -31,7 +31,10 @@ Focusing on **Agent-Native Software Architectures**, **Autonomous Maintenance Dr
 
 - **Continuous Architecture Specification Governance for LLM Coding Agents: An Industrial Instantiation of Spec-Driven Development and the Self-Obsolescence Law**  
   Jiang, C. (2026). *Zenodo*. [https://doi.org/10.5281/zenodo.23440674](https://doi.org/10.5281/zenodo.23440674)
-  
+
+- **The External Prefrontal Cortex: An Autoethnography of AI-Coupled Cognitive Prosthesis in Twice-Exceptional (2E) Software Architecture**  
+  Jiang, C. (2026). *Zenodo*. [https://doi.org/10.5281/zenodo.23453300](https://doi.org/10.5281/zenodo.23453300)
+
 ---
 
 ### 🌐 Profiles & Contact

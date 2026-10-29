@@ -5,7 +5,7 @@
 **Lead Systems Architect · Certified Senior Systems Analyst**  
 *M.S. in Artificial Intelligence, Hawaii Pacific University*
 
-[Email](mailto:janson79jc@gmail.com) • [Google Scholar](https://scholar.google.com/citations?user=CNOK67AAAAAJ) • [GitHub](https://github.com/Janson79jc)
+[Email](mailto:cjiang1@my.hpu.edu) • [Google Scholar](https://scholar.google.com/citations?user=CNOK67AAAAAJ) • [GitHub](https://github.com/Janson79jc)
 
 [![License: CC BY 4.0](https://img.shields.io/badge/Open%20Science-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Codebase Baseline](https://img.shields.io/badge/Codebase-500K%2B%20SLOC%20(Java%2021%20%7C%20Vue%203)-darkgreen)](#)
@@ -70,4 +70,4 @@ Enterprise Systems Infra   : Distributed Architectures | Containerized Services 
 ## 📬 Profiles & Contact
 
 - **Google Scholar**: [Chen Jiang on Google Scholar](https://scholar.google.com/citations?user=CNOK67AAAAAJ)
-- **Contact**: `janson79jc@gmail.com`
+- **Contact**: `cjiang1@my.hpu.edu`

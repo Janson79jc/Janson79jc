@@ -18,7 +18,7 @@
 
 ## 📌 About Me
 
-I am a **Lead Systems Architect** and **Certified Senior Systems Analyst** specializing in autonomous software engineering, deterministic architecture governance, and human-AI cognitive collaboration.
+I am a **Independent Systems Architect** and **Certified Senior Systems Analyst** specializing in autonomous software engineering, deterministic architecture governance, and human-AI cognitive collaboration.
 
 Over the past decade, my practice has centered on mission-critical system architecture, enterprise platforms, and regulatory compliance. Throughout 2026, operating as a **solo architect steering autonomous multi-agent workflows**, I engineered and delivered an enterprise-grade Laboratory Information Management System (**AMF-LIMS**) spanning **500K+ lines of executable code (SLOC)** across 10 mission-critical domains under strict **FDA 21 CFR Part 11 and GAMP 5** data integrity standards.
 
